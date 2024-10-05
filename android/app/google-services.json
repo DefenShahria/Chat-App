@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790186308167",
+    "project_id": "chatting-f483a",
+    "storage_bucket": "chatting-f483a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790186308167:android:b5362fb7b0176b815af762",
+        "android_client_info": {
+          "package_name": "com.example.text_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvjo0DJ0NgfHwZHr_4dhKev4sMir0hHE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
